@@ -1,61 +1,43 @@
-# 👋 Welcome to My GitHub
-
-<div align="center">
-
-# 💠 Bagus Jaya Saktiawan
-
-### Cybersecurity Student • SIEM Enthusiast • Linux Learner
-
-<img src="https://media.tenor.com/4f4xQ4vX6W8AAAAi/blue-archive.gif" width="180"/>
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MikuKirei555\&label=Profile%20Views\&color=blue\&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/MikuKirei555?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/MikuKirei555?style=for-the-badge)
-
-</div>
-
----
-
 ## 💠 About Me
 
 Hi, I'm **Bagus Jaya Saktiawan** (*MikuKirei555*).
 
 🎓 Cybersecurity Student at **Politeknik Negeri Batam**
 
-🛡️ Interested in:
+💡 I enjoy designing ideas, planning systems, and turning concepts into real projects.
 
-* Security Operations Center (SOC)
+🛡️ Areas of Interest
+
 * Security Information and Event Management (SIEM)
+* Cybersecurity Fundamentals
 * Linux Administration
-* Threat Detection & Incident Response
 * Network Security
+* System Design
+* Web Development
 * Security Monitoring
-* Full-Stack Development
 
 🌐 Languages
 
 * 🇮🇩 Indonesian — Native
 * 🇬🇧 English — Intermediate
 
-⚡ Currently developing cybersecurity projects, strengthening Linux administration skills, and learning modern security operations through practical experience.
+⚡ Currently building cybersecurity-related projects while learning Linux administration, web development, and practical security concepts.
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Security
+### Cybersecurity
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-blue?style=for-the-badge)
-![SOC](https://img.shields.io/badge/SOC-Learning-blue?style=for-the-badge)
 ![SIEM](https://img.shields.io/badge/SIEM-Project-blue?style=for-the-badge)
+![Security Monitoring](https://img.shields.io/badge/Security-Monitoring-blue?style=for-the-badge)
 
 ### Operating Systems
 
-![Linux](https://img.shields.io/badge/Linux-Intermediate-blue?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Intermediate-blue?style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-Advanced-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Learning-blue?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Learning-blue?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-Advanced%20User-blue?style=for-the-badge)
 
 ### Development
 
@@ -66,29 +48,17 @@ Hi, I'm **Bagus Jaya Saktiawan** (*MikuKirei555*).
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikuKirei555\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikuKirei555\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
 ## 📚 Current Focus
 
-🔭 Developing SIEM Semester 3 Project
+🔭 Building the SIEM Semester 3 Project
 
-🌱 Learning SOC Operations & Incident Response
+🌱 Learning Linux Administration and Security
 
-🔐 Improving Linux Administration Skills
+🛡️ Exploring Security Monitoring Concepts
 
-🛡️ Exploring Security Monitoring Technologies
+💻 Improving Web Development Skills with Next.js
 
-📖 Expanding Knowledge in Defensive Security
+📖 Expanding Cybersecurity Knowledge Through Hands-On Practice
 
 ---
 
@@ -96,15 +66,15 @@ Hi, I'm **Bagus Jaya Saktiawan** (*MikuKirei555*).
 
 ### 🛡️ SIEM Semester 3
 
-Security Information and Event Management project developed as part of academic coursework and practical cybersecurity learning.
+A cybersecurity-focused academic project designed to improve awareness, monitoring, and understanding of security-related events.
 
 ### 💻 Security Dashboard
 
-Web-based dashboard for monitoring and visualizing security-related information.
+A web-based interface for visualizing and managing security information.
 
-### 🐧 Linux Security Laboratory
+### 🐧 Linux Security Lab
 
-Hands-on laboratory environment for learning:
+A personal learning environment for:
 
 * Linux Administration
 * User Management
@@ -116,33 +86,9 @@ Hands-on laboratory environment for learning:
 
 ## 🎯 Goals
 
-* Build practical cybersecurity projects
-* Improve Linux administration skills
-* Learn advanced SOC workflows
-* Develop security monitoring solutions
-* Contribute to cybersecurity communities
-* Continue expanding technical knowledge
-
----
-
-## 📫 Contact
-
-GitHub: **@MikuKirei555**
-
-Student at **Politeknik Negeri Batam**
-
----
-
-## ⚖️ Ownership
-
-Copyright © 2026 Bagus Jaya Saktiawan
-
-All Rights Reserved.
-
-This repository and its contents are the intellectual property of the repository owner.
-
-Unauthorized copying, modification, redistribution, or commercial use is prohibited without explicit permission.
-
----
-
-> 💠 "Continuous learning is one of the strongest defenses in cybersecurity."
+* Build useful cybersecurity projects
+* Strengthen Linux administration skills
+* Improve web development capabilities
+* Learn security monitoring technologies
+* Expand practical cybersecurity experience
+* Continue learning and growing as a cybersecurity student
