@@ -6,12 +6,19 @@
 
 Hi, I'm **Bagus Jaya Saktiawan** (*MikuKirei555*).
 
+![Profile Views](https://komarev.com/ghpvc/?username=MikuKirei555&label=Profile%20Views)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikuKirei555&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikuKirei555&layout=compact)
+
 🎓 Cybersecurity Student at Politeknik Negeri Batam
 🛡️ Security Operations & SIEM Enthusiast
 🐧 Linux & Infrastructure Learner
 ⚡ Next.js and TypeScript Developer
 🔍 Passionate about Cyber Defense, Monitoring, and Security Research
 
+![Linux](https://img.shields.io/badge/Linux-Experienced-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-green)
+![Next.js](https://img.shields.io/badge/Next.js-Developer-black)
 ---
 
 ## 📚 Current Focus
